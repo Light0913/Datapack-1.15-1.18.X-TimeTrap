@@ -16,3 +16,23 @@ Compatibility test (v1.0.1):
 - 1.14 Unable to operate normally
 
 - 1.13 Unable to operate normally
+
+A race against the clock, fast paced, high blood pressure survival challenge
+
+This data package has the following elements:
+
+- Iron Ore Refugee 
+
+- My Time 
+
+- Food Refugee 
+
+- Dream Start
+
+- Quick Connect Paradise
+
+- Happy Friends
+
+- Extreme Overtime
+
+- Don't look at the instructions
