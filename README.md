@@ -1,11 +1,11 @@
 # Datapack-1.15-1.18-TimeTrap
 ## Time Trap - Fast Pace Survival Challenge
 
-### A Race Against The Clock, Fast Paced, High Blood Pressure Survival Challenge
+**A Race Against The Clock, Fast Paced, High Blood Pressure Survival Challenge**
 
 **Produced in version 1.18.2**
 
-Compatibility test (v1.0.1):
+### Compatibility test (v1.0.1):
 
 - 1.19.2 Can operate normally (predicted)
 
@@ -20,7 +20,7 @@ Compatibility test (v1.0.1):
 - 1.13 Unable to operate normally
 
 
-This data package has the following elements:
+### This data package has the following elements:
 
 - Iron Ore Refugee 
 
