@@ -1,7 +1,7 @@
 # Datapack-1.15-1.18-TimeTrap
 ## Time Trap - Fast Pace Survival Challenge
 
-### A race against the clock, fast paced, high blood pressure survival challenge
+### A Race Against The Clock, Fast Paced, High Blood Pressure Survival Challenge
 
 **Produced in version 1.18.2**
 
