@@ -62,6 +62,6 @@ Your time in the middle of the screen
 
 The game ends when time runs out/life runs out
 
-You can increase time by throwing minerals one by one into the medicine refining pot
+You can increase time by throwing minerals **one by one** into the medicine refining pot
 
 (Only one must be lost or it will waste time)
