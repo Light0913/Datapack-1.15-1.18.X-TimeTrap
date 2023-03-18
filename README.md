@@ -92,7 +92,7 @@ Multiplication: No magnification
 
 ## Increase Time
 
-               **[简单]Easy [普通]Ordinary [困难]Difficult**
+**[简单]Easy [普通]Ordinary [困难]Difficult**
 
 - Iron ingot   **40         30             20**
 
