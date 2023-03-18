@@ -56,6 +56,8 @@ Select the difficulty factor first, and then click [开始游戏] to start the g
 
 After starting the game, it will transfer the player to the birth point and restore health and hunger points
 
+![2.png](images/2.png)
+
 Your time in the middle of the screen
 
 The game ends when time runs out/life runs out
