@@ -103,3 +103,11 @@ Multiplication: No magnification
 - Copper ingot-**20---------15--------------10**
 
 - Alloy----------**360--------300------------240**
+
+## Final Rating
+
+The final rating is based on the following formula
+
+`最终得分=(生存时间+杀死生物*200+(若游戏通关后没死亡)存活时间*3))*全部难度倍率之积+获得成就的额外分数`
+
+`Final score=(survival time+killing creatures * 200+(if the game is not dead after clearance) survival time * 3) * product of all difficulty multipliers+additional score for achievement`
