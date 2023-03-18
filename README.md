@@ -24,21 +24,21 @@
 
 ### This Datapack Has The Following Elements:
 
-- Iron Ore Refugee 
+- [铁矿难民]Iron Ore Refugee 
 
-- My Time 
+- [我时间呢]Where Is My Time 
 
-- Food Refugee 
+- [食物难民]Food Refugee 
 
-- Dream Start
+- [梦幻开局]Dream Start
 
-- Quick Connect Paradise
+- [速通乐园]Quick Connect Paradise
 
-- Happy Friends
+- [欢乐友尽]Happy Friends
 
-- Extreme Overtime
+- [极限加时]Extreme Overtime
 
-- Don't look at the instructions
+- [不看说明]Don't look at the instructions
 
 ## How To Get Started
 
