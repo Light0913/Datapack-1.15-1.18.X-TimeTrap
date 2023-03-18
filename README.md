@@ -49,3 +49,17 @@ Cheating can be turned off (but it is best to turn it on)
 The menu will vary under different game states
 
 ![1.png](images/1.png)
+
+## Game Rules
+
+Select the difficulty factor first, and then click [开始游戏] to start the game
+
+After starting the game, it will transfer the player to the birth point and restore health and hunger points
+
+Your time in the middle of the screen
+
+The game ends when time runs out/life runs out
+
+You can increase time by throwing minerals one by one into the medicine refining pot
+
+(Only one must be lost or it will waste time)
