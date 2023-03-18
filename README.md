@@ -111,3 +111,13 @@ The final rating is based on the following formula
 `最终得分=(生存时间+杀死生物*200+(若游戏通关后没死亡)存活时间*3))*全部难度倍率之积+获得成就的额外分数`
 
 `Final score=(survival time+killing creatures * 200+(if the game is not dead after clearance) survival time * 3) * product of all difficulty multipliers+additional score for achievement`
+
+## Matters Needing Attention
+
+Be sure to throw them into the refining pot one by one, otherwise the gain time will be reduced
+
+Play normally unless it is necessary to use the/trigger menu to forcibly terminate the game
+
+`/coreboard objectives remove initdescu` initializes the game in cheating mode
+
+The reason why it cannot be reopened after setting the clearance is that reopening the game after killing the Final Shadow Dragon will not be able to clear the clearance (without reviving the Dragon)
