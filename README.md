@@ -3,9 +3,9 @@
 
 **A Race Against The Clock, Fast Paced, High Blood Pressure Survival Challenge**
 
-**Produced in version 1.18.2**
+**Produced In Version 1.18.2**
 
-### Compatibility test (v1.0.1):
+### Compatibility Test (v1.0.1):
 
 - 1.19.2 Can operate normally (predicted)
 
@@ -20,7 +20,7 @@
 - 1.13 Unable to operate normally
 
 
-### This data package has the following elements:
+### This Datapack Has The Following Elements:
 
 - Iron Ore Refugee 
 
@@ -37,3 +37,13 @@
 - Extreme Overtime
 
 - Don't look at the instructions
+
+## How To Get Started
+
+Put the data package into non limit mode archive first
+
+Cheating can be turned off (but it is best to turn it on)
+
+` /reload ` or ` /trigger menu ` can both call up menus
+
+The menu will vary under different game states
