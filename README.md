@@ -47,3 +47,5 @@ Cheating can be turned off (but it is best to turn it on)
 ` /reload ` or ` /trigger menu ` can both call up menus
 
 The menu will vary under different game states
+
+![1.png](images/1.png)
