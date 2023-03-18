@@ -62,7 +62,7 @@ Your time in the middle of the screen
 
 The game ends when time runs out/life runs out
 
-You can increase time by throwing minerals **one by one** into the medicine refining pot
+**You can increase time by throwing minerals one by one into the medicine refining pot**
 
 (Only one must be lost or it will waste time)
 
@@ -89,3 +89,17 @@ Multiplication: 0.9 1.0 1.1
 [死亡惩罚] The punishment obtained after death
 
 Multiplication: No magnification
+
+## Increase Time
+
+               **[简单]Easy [普通]Ordinary [困难]Difficult**
+
+- Iron ingot   **40         30             20**
+
+- Gold ingot   **60         50             40**
+
+- Diamond      **120        90             60**
+
+- Copper ingot **20         15             10**
+
+- Alloy        **360        300            240**
