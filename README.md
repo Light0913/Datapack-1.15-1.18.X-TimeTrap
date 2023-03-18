@@ -65,3 +65,27 @@ The game ends when time runs out/life runs out
 You can increase time by throwing minerals **one by one** into the medicine refining pot
 
 (Only one must be lost or it will waste time)
+
+## Difficulty Setting
+
+Modify the parameters before starting the game to modify the difficulty factor
+
+Difficulty factors affect the final rating
+
+![]
+
+[初始时间] Determines the initial time after starting the game
+
+Multiplication: 1.1 1.0 0.9
+
+[初始生命] Determines the number of times you can die
+
+Multiplication: 1.3 1.2 1.1 1.0
+
+[游戏难度] Determines the time available for sacrificing items
+
+Multiplication: 0.9 1.0 1.1
+
+[死亡惩罚] The punishment obtained after death
+
+Multiplication: No magnification
