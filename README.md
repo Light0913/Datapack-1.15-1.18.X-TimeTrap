@@ -72,7 +72,7 @@ Modify the parameters before starting the game to modify the difficulty factor
 
 Difficulty factors affect the final rating
 
-![]
+![3.png](images/3.png)
 
 [初始时间] Determines the initial time after starting the game
 
