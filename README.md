@@ -94,17 +94,13 @@ Multiplication: No magnification
 
 ## Increase Time
 
-**--------------------[简单]Easy [普通]Ordinary [困难]Difficult--------------------**
-
-- **Iron ingot-----40---------30--------------20**
-
-- **Gold ingot----60---------50--------------40**
-
-- **Diamond-----120--------90--------------60**
-
-- **Copper ingot-20---------15--------------10**
-
-- **Alloy----------360--------300------------240**
+|[简单]Easy|[普通]Ordinary|[困难]Difficult|
+|:-:|:-:|:-:|
+|Iron_ingot|40|30|20|
+|Gold_ingot|60|50|40|
+|Diamond|120|90|60|
+|Copper_ingot|20|15|10|            
+|Netherite_ingot|360|300|240|
 
 ## Final Rating
 
